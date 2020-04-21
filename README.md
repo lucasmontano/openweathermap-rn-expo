@@ -212,6 +212,7 @@ Open Weather on Other Platforms:
 
 - Android: https://github.com/lucasmontano/openweathermap
 - iOS: https://github.com/lucasmontano/openweathermap-ios
+- React Native: https://github.com/lucasmontano/openweathermap-reactnative
 - Flutter: https://github.com/lucasmontano/openweathermap-flutter
 
 <br />
